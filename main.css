@@ -1,0 +1,14 @@
+body{
+  width:1280px;
+  height:1200px;
+  margin: auto;
+  background: #0E0D0D;
+  background-image: url(images/img_main.png);
+  background-repeat:no-repeat;
+  background-position:center;
+}
+img{
+  float: right;
+  padding-top: 1048px;
+  padding-right: 160px;
+}

@@ -1,0 +1,75 @@
+body{
+  max-width:852px;
+  height: 1000px;
+  margin: auto;
+  background: #B8B492;
+  background-image: url(images/img_direct_2.png.);
+  background-color: #B8B492;
+  background-repeat:no-repeat;
+  background-position:700px 900px;
+
+}
+section img{
+  padding-top: 80px;
+  padding-left: 20px;
+  float: left;
+}
+#name{
+  font-size: 38px;
+  color:#3B5B5D;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight:bolder ;
+  float: right;
+  padding-right: 350px;
+  padding-top: 50px;
+}
+#bir{
+  font-size: 38px;
+  color:#3B5B5D;
+  font-family: LiSong Pro Light,NSimSun;
+  float: right;
+  padding-right: 90px;
+  margin-top: -50px;
+}
+#imfor{
+  width: 420px;
+  padding-right:  50px;
+  font-size: 30px;
+  color:#FFFFFF;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight:bolder ;
+  float: right;
+}
+#imfor2{
+  padding-top: 30px;
+  width: 500px;
+  font-size: 30px;
+  color:#FFFFFF;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight:bolder ;
+  float: left;
+}
+nav{
+  padding-top:10px;
+  padding-bottom: 15px;
+}
+header{
+  max-width:852px;
+  max-height:301px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button li{
+    list-style:none;
+    float:left;
+    padding-right: 32px;
+    padding-left: 20px;
+}
+footer{
+  background: #3B5B5D;
+  margin-top: 150px;
+  height: 100px;
+  width:1512px;
+  float: left;
+  margin-left: -330px;
+}

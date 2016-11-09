@@ -1,0 +1,66 @@
+body{
+  max-width:852px;
+  height:800px;
+  margin: auto;
+  background: #B8B492;
+
+
+}
+
+header{
+  max-width:852px;
+  max-height:301px;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav{
+  padding-top:10px;
+  padding-bottom: 15px;
+}
+.button li{
+    list-style:none;
+    float:left;
+    padding-right: 32px;
+    padding-left: 20px;
+}
+#btn{
+  float: right;
+  margin-right: -5px;
+  margin-top: -38px;
+}
+#name{
+  float: right;
+  padding-right: 320px;
+  margin-bottom: 0px;
+  margin-top: -20px;
+  font-size: 38px;
+  color:#3B5B5D;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight:bolder ;
+
+}
+#imfor{
+
+  float: right;
+  padding-right: 80px;
+  margin-top: -250px;
+  width: 450px;
+  font-size: 30px;
+  color:#3B5B5D;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight: bolder ;
+
+}
+#pic{
+  float: left;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+footer{
+  background: #3B5B5D;
+  margin-top: 50px;
+  height: 100px;
+  width:1512px;
+  float: left;
+  margin-left: -330px;
+}
