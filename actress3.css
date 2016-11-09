@@ -1,0 +1,78 @@
+body{
+  max-width:852px;
+  height:1200px;
+  margin: auto;
+  background: #B8B492;
+
+
+}
+
+header{
+  max-width:852px;
+  max-height:301px;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav{
+  padding-top:10px;
+  padding-bottom: 15px;
+}
+.button li{
+    list-style:none;
+    float:left;
+    padding-right: 32px;
+    padding-left: 20px;
+}
+#btn{
+  float: right;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+iframe{
+  padding-left: 100px;
+  padding-top: 20px;
+}
+#name{
+  font-size: 38px;
+  color:#3B5B5D;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight:bolder ;
+  float:left;
+  padding-left: 80px;
+}
+#imfor{
+  width: 650px;
+  padding-left:  90px;
+  margin-top: -30px;
+  font-size: 30px;
+  color:#3B5B5D;
+  font-family: LiSong Pro Light,NSimSun;
+  font-weight: bolder ;
+  float: left;
+}
+#pic1{
+  padding-left: 100px;
+}
+#pic2{
+  margin-top: -408px;
+  padding-right: 120px;
+  float: right;
+}
+#pic3{
+  float: left;
+  margin-top: 30px;
+  padding-left: 100px;
+}
+#pic4{
+  margin-top: 30px;
+  padding-right: 120px;
+  float: right;
+}
+footer{
+  background: #3B5B5D;
+  margin-top: 60px;
+  height: 100px;
+  width:1512px;
+  float: left;
+  margin-left: -330px;
+}
