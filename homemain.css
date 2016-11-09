@@ -3,7 +3,7 @@ body{
   height:1200px;
   margin: auto;
   background: #B8B492;
-  
+
   background-image: url(images/img_body_1.png);
   background-color: #B8B492;
   background-repeat:no-repeat;
@@ -40,4 +40,13 @@ footer{
   width:1512px;
   float: left;
   margin-left: -330px;
+
+
+}
+footer p{
+  padding-top: 28px;
+  font-size: 18px;
+  color: #FFFFFF;
+  font-family: Arial;
+  text-align:center;
 }

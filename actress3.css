@@ -50,24 +50,17 @@ iframe{
   font-weight: bolder ;
   float: left;
 }
-#pic1{
+.pic1{
+  padding-top: 35px;
   padding-left: 100px;
 }
-#pic2{
+.pic2{
+
   margin-top: -408px;
   padding-right: 120px;
   float: right;
 }
-#pic3{
-  float: left;
-  margin-top: 30px;
-  padding-left: 100px;
-}
-#pic4{
-  margin-top: 30px;
-  padding-right: 120px;
-  float: right;
-}
+
 footer{
   background: #3B5B5D;
   margin-top: 60px;
@@ -75,4 +68,11 @@ footer{
   width:1512px;
   float: left;
   margin-left: -330px;
+}
+footer p{
+  padding-top: 28px;
+  font-size: 18px;
+  color: #FFFFFF;
+  font-family: Arial;
+  text-align:center;
 }

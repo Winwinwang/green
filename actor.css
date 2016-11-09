@@ -48,3 +48,10 @@ footer{
   font-weight:bolder ;
 
 }
+footer p{
+  padding-top: 28px;
+  font-size: 18px;
+  color: #FFFFFF;
+  font-family: Arial;
+  text-align:center;
+}
